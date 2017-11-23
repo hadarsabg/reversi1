@@ -1,4 +1,4 @@
-# Install script for directory: /home/inbal/CLionProjects/reversi1
+# Install script for directory: /home/hadar/CLionProjects/programming/ex2finel
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/inbal/CLionProjects/reversi1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

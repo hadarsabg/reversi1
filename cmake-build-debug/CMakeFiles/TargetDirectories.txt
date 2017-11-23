@@ -1,3 +1,3 @@
-/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir
+/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles/untitled1.dir

@@ -5,9 +5,14 @@
 #include "Game.h"
 
 
-Game::Game():board(new Board(8)),gameLogic(new ConsoleGameLogic(this->board)){
+Game::Game(int playerChoice):playerChoice(playerChoice),board(new Board(8)),gameLogic(new ConsoleGameLogic(this->board)){
     this->blackPlayer = new HumanPlayer('X');
-    this->whitePlayer = new HumanPlayer('O');
+    if(this->playerChoice==1) {
+        this->whitePlayer = new HumanPlayer('O');
+    }
+    if(this->playerChoice==2){
+        this->whitePlayer = new AiPlayer('O');
+    }
 };
 Game::~Game() {
     delete board;

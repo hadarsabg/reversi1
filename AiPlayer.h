@@ -9,6 +9,7 @@
 #include "Player.h"
 
 class AiPlayer: public Player {
+public:
     AiPlayer(char symbol);
     BoardCell* playOneTurn(vector<BoardCell *>& possibleMoves);
 

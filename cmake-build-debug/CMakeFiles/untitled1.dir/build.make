@@ -43,10 +43,10 @@ RM = /opt/clion-2017.2.3/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hadar/CLionProjects/programming/untitled1
+CMAKE_SOURCE_DIR = /home/hadar/CLionProjects/programming/ex2finel
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hadar/CLionProjects/programming/untitled1/cmake-build-debug
+CMAKE_BINARY_DIR = /home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled1.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/untitled1.dir/flags.make
 
 CMakeFiles/untitled1.dir/main.cpp.o: CMakeFiles/untitled1.dir/flags.make
 CMakeFiles/untitled1.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/main.cpp.o -c /home/hadar/CLionProjects/programming/untitled1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/main.cpp.o -c /home/hadar/CLionProjects/programming/ex2finel/main.cpp
 
 CMakeFiles/untitled1.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/untitled1/main.cpp > CMakeFiles/untitled1.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/ex2finel/main.cpp > CMakeFiles/untitled1.dir/main.cpp.i
 
 CMakeFiles/untitled1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/untitled1/main.cpp -o CMakeFiles/untitled1.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/ex2finel/main.cpp -o CMakeFiles/untitled1.dir/main.cpp.s
 
 CMakeFiles/untitled1.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/untitled1.dir/main.cpp.o.provides.build: CMakeFiles/untitled1.dir/mai
 
 CMakeFiles/untitled1.dir/Game.cpp.o: CMakeFiles/untitled1.dir/flags.make
 CMakeFiles/untitled1.dir/Game.cpp.o: ../Game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled1.dir/Game.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/Game.cpp.o -c /home/hadar/CLionProjects/programming/untitled1/Game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled1.dir/Game.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/Game.cpp.o -c /home/hadar/CLionProjects/programming/ex2finel/Game.cpp
 
 CMakeFiles/untitled1.dir/Game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Game.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/untitled1/Game.cpp > CMakeFiles/untitled1.dir/Game.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/ex2finel/Game.cpp > CMakeFiles/untitled1.dir/Game.cpp.i
 
 CMakeFiles/untitled1.dir/Game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Game.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/untitled1/Game.cpp -o CMakeFiles/untitled1.dir/Game.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/ex2finel/Game.cpp -o CMakeFiles/untitled1.dir/Game.cpp.s
 
 CMakeFiles/untitled1.dir/Game.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/untitled1.dir/Game.cpp.o.provides.build: CMakeFiles/untitled1.dir/Gam
 
 CMakeFiles/untitled1.dir/Board.cpp.o: CMakeFiles/untitled1.dir/flags.make
 CMakeFiles/untitled1.dir/Board.cpp.o: ../Board.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled1.dir/Board.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/Board.cpp.o -c /home/hadar/CLionProjects/programming/untitled1/Board.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled1.dir/Board.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/Board.cpp.o -c /home/hadar/CLionProjects/programming/ex2finel/Board.cpp
 
 CMakeFiles/untitled1.dir/Board.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Board.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/untitled1/Board.cpp > CMakeFiles/untitled1.dir/Board.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/ex2finel/Board.cpp > CMakeFiles/untitled1.dir/Board.cpp.i
 
 CMakeFiles/untitled1.dir/Board.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Board.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/untitled1/Board.cpp -o CMakeFiles/untitled1.dir/Board.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/ex2finel/Board.cpp -o CMakeFiles/untitled1.dir/Board.cpp.s
 
 CMakeFiles/untitled1.dir/Board.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/untitled1.dir/Board.cpp.o.provides.build: CMakeFiles/untitled1.dir/Bo
 
 CMakeFiles/untitled1.dir/BoardCell.cpp.o: CMakeFiles/untitled1.dir/flags.make
 CMakeFiles/untitled1.dir/BoardCell.cpp.o: ../BoardCell.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled1.dir/BoardCell.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/BoardCell.cpp.o -c /home/hadar/CLionProjects/programming/untitled1/BoardCell.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled1.dir/BoardCell.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/BoardCell.cpp.o -c /home/hadar/CLionProjects/programming/ex2finel/BoardCell.cpp
 
 CMakeFiles/untitled1.dir/BoardCell.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/BoardCell.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/untitled1/BoardCell.cpp > CMakeFiles/untitled1.dir/BoardCell.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/ex2finel/BoardCell.cpp > CMakeFiles/untitled1.dir/BoardCell.cpp.i
 
 CMakeFiles/untitled1.dir/BoardCell.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/BoardCell.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/untitled1/BoardCell.cpp -o CMakeFiles/untitled1.dir/BoardCell.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/ex2finel/BoardCell.cpp -o CMakeFiles/untitled1.dir/BoardCell.cpp.s
 
 CMakeFiles/untitled1.dir/BoardCell.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/untitled1.dir/BoardCell.cpp.o.provides.build: CMakeFiles/untitled1.di
 
 CMakeFiles/untitled1.dir/Player.cpp.o: CMakeFiles/untitled1.dir/flags.make
 CMakeFiles/untitled1.dir/Player.cpp.o: ../Player.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled1.dir/Player.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/Player.cpp.o -c /home/hadar/CLionProjects/programming/untitled1/Player.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled1.dir/Player.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/Player.cpp.o -c /home/hadar/CLionProjects/programming/ex2finel/Player.cpp
 
 CMakeFiles/untitled1.dir/Player.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Player.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/untitled1/Player.cpp > CMakeFiles/untitled1.dir/Player.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/ex2finel/Player.cpp > CMakeFiles/untitled1.dir/Player.cpp.i
 
 CMakeFiles/untitled1.dir/Player.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Player.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/untitled1/Player.cpp -o CMakeFiles/untitled1.dir/Player.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/ex2finel/Player.cpp -o CMakeFiles/untitled1.dir/Player.cpp.s
 
 CMakeFiles/untitled1.dir/Player.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/untitled1.dir/Player.cpp.o.provides.build: CMakeFiles/untitled1.dir/P
 
 CMakeFiles/untitled1.dir/HumanPlayer.cpp.o: CMakeFiles/untitled1.dir/flags.make
 CMakeFiles/untitled1.dir/HumanPlayer.cpp.o: ../HumanPlayer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled1.dir/HumanPlayer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/HumanPlayer.cpp.o -c /home/hadar/CLionProjects/programming/untitled1/HumanPlayer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled1.dir/HumanPlayer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/HumanPlayer.cpp.o -c /home/hadar/CLionProjects/programming/ex2finel/HumanPlayer.cpp
 
 CMakeFiles/untitled1.dir/HumanPlayer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/HumanPlayer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/untitled1/HumanPlayer.cpp > CMakeFiles/untitled1.dir/HumanPlayer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/ex2finel/HumanPlayer.cpp > CMakeFiles/untitled1.dir/HumanPlayer.cpp.i
 
 CMakeFiles/untitled1.dir/HumanPlayer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/HumanPlayer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/untitled1/HumanPlayer.cpp -o CMakeFiles/untitled1.dir/HumanPlayer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/ex2finel/HumanPlayer.cpp -o CMakeFiles/untitled1.dir/HumanPlayer.cpp.s
 
 CMakeFiles/untitled1.dir/HumanPlayer.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/untitled1.dir/HumanPlayer.cpp.o.provides.build: CMakeFiles/untitled1.
 
 CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o: CMakeFiles/untitled1.dir/flags.make
 CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o: ../ConsoleGameLogic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o -c /home/hadar/CLionProjects/programming/untitled1/ConsoleGameLogic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o -c /home/hadar/CLionProjects/programming/ex2finel/ConsoleGameLogic.cpp
 
 CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/untitled1/ConsoleGameLogic.cpp > CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/ex2finel/ConsoleGameLogic.cpp > CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.i
 
 CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/untitled1/ConsoleGameLogic.cpp -o CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/ex2finel/ConsoleGameLogic.cpp -o CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.s
 
 CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o.requires:
 
@@ -225,6 +225,30 @@ CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o.provides: CMakeFiles/untitled1.d
 CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o.provides.build: CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o
 
 
+CMakeFiles/untitled1.dir/AiPlayer.cpp.o: CMakeFiles/untitled1.dir/flags.make
+CMakeFiles/untitled1.dir/AiPlayer.cpp.o: ../AiPlayer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled1.dir/AiPlayer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/AiPlayer.cpp.o -c /home/hadar/CLionProjects/programming/ex2finel/AiPlayer.cpp
+
+CMakeFiles/untitled1.dir/AiPlayer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/AiPlayer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hadar/CLionProjects/programming/ex2finel/AiPlayer.cpp > CMakeFiles/untitled1.dir/AiPlayer.cpp.i
+
+CMakeFiles/untitled1.dir/AiPlayer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/AiPlayer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hadar/CLionProjects/programming/ex2finel/AiPlayer.cpp -o CMakeFiles/untitled1.dir/AiPlayer.cpp.s
+
+CMakeFiles/untitled1.dir/AiPlayer.cpp.o.requires:
+
+.PHONY : CMakeFiles/untitled1.dir/AiPlayer.cpp.o.requires
+
+CMakeFiles/untitled1.dir/AiPlayer.cpp.o.provides: CMakeFiles/untitled1.dir/AiPlayer.cpp.o.requires
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/AiPlayer.cpp.o.provides.build
+.PHONY : CMakeFiles/untitled1.dir/AiPlayer.cpp.o.provides
+
+CMakeFiles/untitled1.dir/AiPlayer.cpp.o.provides.build: CMakeFiles/untitled1.dir/AiPlayer.cpp.o
+
+
 # Object files for target untitled1
 untitled1_OBJECTS = \
 "CMakeFiles/untitled1.dir/main.cpp.o" \
@@ -233,7 +257,8 @@ untitled1_OBJECTS = \
 "CMakeFiles/untitled1.dir/BoardCell.cpp.o" \
 "CMakeFiles/untitled1.dir/Player.cpp.o" \
 "CMakeFiles/untitled1.dir/HumanPlayer.cpp.o" \
-"CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o"
+"CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o" \
+"CMakeFiles/untitled1.dir/AiPlayer.cpp.o"
 
 # External object files for target untitled1
 untitled1_EXTERNAL_OBJECTS =
@@ -245,9 +270,10 @@ untitled1: CMakeFiles/untitled1.dir/BoardCell.cpp.o
 untitled1: CMakeFiles/untitled1.dir/Player.cpp.o
 untitled1: CMakeFiles/untitled1.dir/HumanPlayer.cpp.o
 untitled1: CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o
+untitled1: CMakeFiles/untitled1.dir/AiPlayer.cpp.o
 untitled1: CMakeFiles/untitled1.dir/build.make
 untitled1: CMakeFiles/untitled1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable untitled1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable untitled1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -262,6 +288,7 @@ CMakeFiles/untitled1.dir/requires: CMakeFiles/untitled1.dir/BoardCell.cpp.o.requ
 CMakeFiles/untitled1.dir/requires: CMakeFiles/untitled1.dir/Player.cpp.o.requires
 CMakeFiles/untitled1.dir/requires: CMakeFiles/untitled1.dir/HumanPlayer.cpp.o.requires
 CMakeFiles/untitled1.dir/requires: CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o.requires
+CMakeFiles/untitled1.dir/requires: CMakeFiles/untitled1.dir/AiPlayer.cpp.o.requires
 
 .PHONY : CMakeFiles/untitled1.dir/requires
 
@@ -270,6 +297,6 @@ CMakeFiles/untitled1.dir/clean:
 .PHONY : CMakeFiles/untitled1.dir/clean
 
 CMakeFiles/untitled1.dir/depend:
-	cd /home/hadar/CLionProjects/programming/untitled1/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hadar/CLionProjects/programming/untitled1 /home/hadar/CLionProjects/programming/untitled1 /home/hadar/CLionProjects/programming/untitled1/cmake-build-debug /home/hadar/CLionProjects/programming/untitled1/cmake-build-debug /home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hadar/CLionProjects/programming/ex2finel /home/hadar/CLionProjects/programming/ex2finel /home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug /home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug /home/hadar/CLionProjects/programming/ex2finel/cmake-build-debug/CMakeFiles/untitled1.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/untitled1.dir/depend
 

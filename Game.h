@@ -10,11 +10,12 @@
 #include "Board.h"
 #include "GameLogic.h"
 #include "HumanPlayer.h"
+#include "AiPlayer.h"
 
 class Game {
 public:
     //constructor
-    Game();
+    Game(int playerChoice);
     //destructor
     ~Game();
     //run the game loop and prints the board after each turn
@@ -27,6 +28,7 @@ private:
     Player* whitePlayer;
     Board* board;
     GameLogic* gameLogic;
+    int playerChoice;
 
 };
 
