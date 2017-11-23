@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled1.dir/Player.cpp.o"
   "CMakeFiles/untitled1.dir/HumanPlayer.cpp.o"
   "CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o"
+  "CMakeFiles/untitled1.dir/AiPlayer.cpp.o"
   "untitled1.pdb"
   "untitled1"
 )

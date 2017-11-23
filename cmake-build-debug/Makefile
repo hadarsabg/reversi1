@@ -123,6 +123,33 @@ untitled1/fast:
 	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/build
 .PHONY : untitled1/fast
 
+AiPlayer.o: AiPlayer.cpp.o
+
+.PHONY : AiPlayer.o
+
+# target to build an object file
+AiPlayer.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/AiPlayer.cpp.o
+.PHONY : AiPlayer.cpp.o
+
+AiPlayer.i: AiPlayer.cpp.i
+
+.PHONY : AiPlayer.i
+
+# target to preprocess a source file
+AiPlayer.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/AiPlayer.cpp.i
+.PHONY : AiPlayer.cpp.i
+
+AiPlayer.s: AiPlayer.cpp.s
+
+.PHONY : AiPlayer.s
+
+# target to generate assembly for a file
+AiPlayer.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/AiPlayer.cpp.s
+.PHONY : AiPlayer.cpp.s
+
 Board.o: Board.cpp.o
 
 .PHONY : Board.o
@@ -321,6 +348,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled1"
+	@echo "... AiPlayer.o"
+	@echo "... AiPlayer.i"
+	@echo "... AiPlayer.s"
 	@echo "... Board.o"
 	@echo "... Board.i"
 	@echo "... Board.s"

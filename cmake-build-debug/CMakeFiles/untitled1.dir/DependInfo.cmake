@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/inbal/CLionProjects/reversi1/AiPlayer.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/AiPlayer.cpp.o"
   "/home/inbal/CLionProjects/reversi1/Board.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/Board.cpp.o"
   "/home/inbal/CLionProjects/reversi1/BoardCell.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/BoardCell.cpp.o"
   "/home/inbal/CLionProjects/reversi1/ConsoleGameLogic.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o"
