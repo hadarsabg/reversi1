@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/inbal/CLionProjects/reversi1/AiPlayer.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/inbal/CLionProjects/reversi1/AiPlayer.h">
+			<Option target="untitled1"/>
+		</Unit>
 		<Unit filename="/home/inbal/CLionProjects/reversi1/Board.cpp">
 			<Option target="untitled1"/>
 		</Unit>
