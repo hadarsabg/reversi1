@@ -62,7 +62,7 @@ public:
      * @param col
      * @return board[row][col]
      */
-    BoardCell * getCellAt(int row, int col)const;
+    BoardCell* getCellAt(int row, int col)const;
 private :
     int size;
     BoardCell ***board;

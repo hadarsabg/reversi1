@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
     int playerChoice;
-    cout <<"enter 1 for human player\nenter 2 for AI player"<<endl;
+    cout <<"enter 1 for human player"<<endl<<"enter 2 for AI player"<<endl;
     cin >> playerChoice;
     Game game(playerChoice);
     game.run();

@@ -7,11 +7,13 @@
 
 
 #include "Player.h"
+#include "Board.h"
+#include "GameLogic.h"
 
 class AiPlayer: public Player {
 public:
     AiPlayer(char symbol);
-    BoardCell* playOneTurn(vector<BoardCell *>& possibleMoves);
+    BoardCell* playOneTurn(vector<BoardCell *>& possibleMoves , Board &b , GameLogic logic);
 
 
 };

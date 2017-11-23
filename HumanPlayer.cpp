@@ -4,7 +4,7 @@
 
 #include "HumanPlayer.h"
 
-BoardCell*  HumanPlayer::playOneTurn(vector<BoardCell *> & possibleMoves) {
+BoardCell*  HumanPlayer::playOneTurn(vector<BoardCell*> & possibleMoves) {
     int row, col, index;
     bool isValid = false;
     cout << this->getSymbol() << ": its your move." << endl;

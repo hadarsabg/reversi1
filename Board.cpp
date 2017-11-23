@@ -74,7 +74,7 @@ int Board::getSize() {
     return this->size;
 }
 
-BoardCell * Board::getCellAt(int row, int col)const {
+BoardCell* Board::getCellAt(int row, int col)const {
     return this->board[row][col];
 }
 

@@ -24,7 +24,6 @@ void Game::run() {
     vector<BoardCell*> blackMoves =this->gameLogic->getPossibleMoves(blackPlayer);
     vector <BoardCell*> whiteMoves=this->gameLogic->getPossibleMoves(whitePlayer);
 
-
     while (!(whiteMoves.empty() && blackMoves.empty())) {
 
         blackMoves = this->gameLogic->getPossibleMoves(blackPlayer);
