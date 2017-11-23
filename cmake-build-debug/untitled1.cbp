@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug"/>
+				<Option working_dir="/home/inbal/CLionProjects/reversi1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug"/>
+				<Option working_dir="/home/inbal/CLionProjects/reversi1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug"/>
+				<Option working_dir="/home/inbal/CLionProjects/reversi1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1">
-				<Option output="/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug"/>
+				<Option output="/home/inbal/CLionProjects/reversi1/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/inbal/CLionProjects/reversi1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1/fast">
-				<Option output="/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug"/>
+				<Option output="/home/inbal/CLionProjects/reversi1/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/inbal/CLionProjects/reversi1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,56 +77,56 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/inbal/CLionProjects/reversi1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/Board.cpp">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/Board.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/Board.h">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/Board.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/BoardCell.cpp">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/BoardCell.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/BoardCell.h">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/BoardCell.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/ConsoleGameLogic.cpp">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/ConsoleGameLogic.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/ConsoleGameLogic.h">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/ConsoleGameLogic.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/Game.cpp">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/Game.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/Game.h">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/Game.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/GameLogic.h">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/GameLogic.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/HumanPlayer.cpp">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/HumanPlayer.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/HumanPlayer.h">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/HumanPlayer.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/Player.cpp">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/Player.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/Player.h">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/Player.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/main.cpp">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/main.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/hadar/CLionProjects/programming/untitled1/CMakeLists.txt">
+		<Unit filename="/home/inbal/CLionProjects/reversi1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

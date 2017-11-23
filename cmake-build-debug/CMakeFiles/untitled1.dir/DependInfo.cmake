@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hadar/CLionProjects/programming/untitled1/Board.cpp" "/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Board.cpp.o"
-  "/home/hadar/CLionProjects/programming/untitled1/BoardCell.cpp" "/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/BoardCell.cpp.o"
-  "/home/hadar/CLionProjects/programming/untitled1/ConsoleGameLogic.cpp" "/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o"
-  "/home/hadar/CLionProjects/programming/untitled1/Game.cpp" "/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Game.cpp.o"
-  "/home/hadar/CLionProjects/programming/untitled1/HumanPlayer.cpp" "/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/HumanPlayer.cpp.o"
-  "/home/hadar/CLionProjects/programming/untitled1/Player.cpp" "/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Player.cpp.o"
-  "/home/hadar/CLionProjects/programming/untitled1/main.cpp" "/home/hadar/CLionProjects/programming/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.o"
+  "/home/inbal/CLionProjects/reversi1/Board.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/Board.cpp.o"
+  "/home/inbal/CLionProjects/reversi1/BoardCell.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/BoardCell.cpp.o"
+  "/home/inbal/CLionProjects/reversi1/ConsoleGameLogic.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/ConsoleGameLogic.cpp.o"
+  "/home/inbal/CLionProjects/reversi1/Game.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/Game.cpp.o"
+  "/home/inbal/CLionProjects/reversi1/HumanPlayer.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/HumanPlayer.cpp.o"
+  "/home/inbal/CLionProjects/reversi1/Player.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/Player.cpp.o"
+  "/home/inbal/CLionProjects/reversi1/main.cpp" "/home/inbal/CLionProjects/reversi1/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
