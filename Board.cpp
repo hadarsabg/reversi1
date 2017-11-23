@@ -9,7 +9,7 @@ using namespace std;
 
 Board::Board(int size) : size(size) {
 
-    this->board=new BoardCell** [size];
+    this->board = new BoardCell** [size];
     //initiate a 2d array with BoardCells objects
     for (int i = 0; i <this->size; ++i) {
         this->board[i] = new BoardCell *[size];
@@ -24,6 +24,32 @@ Board::Board(int size) : size(size) {
     this->board[this->size/2-1][this->size/2]->updateCellValue('X');
     this->board[this->size/2][this->size/2-1]->updateCellValue('X');
 }
+
+
+
+
+
+Board::Board(const Board &boardToCopy) {
+    this->size = boardToCopy.size;
+    this->board = new BoardCell** [this->size];
+
+    for(int i = 0; i < this->size; ++i) {
+        this->board[i] = new BoardCell *[size];
+        for (int j = 0; j < this->size; ++j) {
+            this->board[i][j] = new BoardCell(i + 1, j + 1);
+        }
+    }
+    for(int i = 0; i < this->size; i++) {
+        for(int j = 0; j < this->size ; j++) {
+            this->board[i][j] = boardToCopy.board[i][j];
+        }
+    }
+}
+
+
+
+
+
 
 Board::~Board() {
     for (int i = 0; i < this->size; i++) {

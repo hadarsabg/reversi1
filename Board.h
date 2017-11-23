@@ -23,6 +23,27 @@ public:
     //override out
     friend ostream &operator <<(ostream &out, const Board &board);
 
+
+
+    /**
+* function name: Board
+* copy constuctor.
+* @param - .
+
+**/
+
+    Board(const Board &boardToCopy);
+
+
+    /**
+* function name:  operator =
+* foperator =.
+**/
+
+
+    Board& operator = (const Board& b);
+
+
     /**
      * check if cell is in board
      * @param row
